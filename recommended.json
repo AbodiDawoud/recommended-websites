@@ -1,17 +1,12 @@
 [
     {
-      title: "Example Site 1",
-      url: 'https://example1.com',
-      description: 'Description for example site 1'
+        "title": "Swift by Sundell",
+        "url": "https://www.swiftbysundell.com",
+        "description": "A website about Swift programming."
     },
     {
-        title: "Example Site 2",
-        url: 'https://example2.com',
-        description: 'Description for example site 2'
-    },
-    {
-        title: "Example Site 3",
-        url: 'https://example3.com',
-        description: 'Description for example site 3'
-    },
+        "title": "Ray Wenderlich",
+        "url": "https://www.raywenderlich.com",
+        "description": "High-quality tutorials for iOS developers."
+    }
 ]
