@@ -8,5 +8,15 @@
         "title": "Ray Wenderlich",
         "url": "https://www.raywenderlich.com",
         "description": "High-quality tutorials for iOS developers."
+    },
+    {
+        "title": "iOS Example",
+        "url": "https://iosexample.com",
+        "description": "A huge library contains iOS projects and tools."
+    },
+    {
+        "title": "Icon Kitchen",
+        "url": "https://icon.kitchen",
+        "description": "Lets you designe your app icon for iOS and android"
     }
 ]
